@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://C3H18O2.github.io</id>
     <title>C13H18O2</title>
-    <updated>2021-04-09T15:24:49.480Z</updated>
+    <updated>2021-05-03T15:56:51.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://C3H18O2.github.io"/>
     <link rel="self" href="https://C3H18O2.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://C3H18O2.github.io/images/avatar.png</logo>
     <icon>https://C3H18O2.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, C13H18O2</rights>
+    <entry>
+        <title type="html"><![CDATA[2021/05/03 ES2国服10-11期活动记录/日服SS第一章感想]]></title>
+        <id>https://C3H18O2.github.io/post/20210503-es2-guo-fu-10-11-qi-huo-dong-ji-lu-ri-fu-ss-di-yi-zhang-gan-xiang/</id>
+        <link href="https://C3H18O2.github.io/post/20210503-es2-guo-fu-10-11-qi-huo-dong-ji-lu-ri-fu-ss-di-yi-zhang-gan-xiang/">
+        </link>
+        <updated>2021-05-03T15:48:30.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021/04/09 ES2国服8-9期活动记录]]></title>
         <id>https://C3H18O2.github.io/post/20210307-es2-guo-fu-8-9-qi-huo-dong-ji-lu/</id>
